@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siham Beldjoudi
 - 👀 I’m interested in Data processing and AI 
-- 🌱 I’m currently learning Computer vision 
+- 🌱 I’m currently learning Artificial perception for robotics 
 
 
 <!---
