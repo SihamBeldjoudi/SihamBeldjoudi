@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siham Beldjoudi
-- 👀 I’m interested in Data processing and AI
+- 👀 I’m interested in Computer Vision and AI
 
 
 <!---
